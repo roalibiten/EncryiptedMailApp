@@ -1,0 +1,10 @@
+C:\Users\Roali Biten\source\repos\EncryiptedMailApp\EncryiptedMailApp\bin\Debug\EncryiptedMailApp.exe.config
+C:\Users\Roali Biten\source\repos\EncryiptedMailApp\EncryiptedMailApp\bin\Debug\EncryiptedMailApp.exe
+C:\Users\Roali Biten\source\repos\EncryiptedMailApp\EncryiptedMailApp\bin\Debug\EncryiptedMailApp.pdb
+C:\Users\Roali Biten\source\repos\EncryiptedMailApp\EncryiptedMailApp\obj\Debug\EncryiptedMailApp.csprojAssemblyReference.cache
+C:\Users\Roali Biten\source\repos\EncryiptedMailApp\EncryiptedMailApp\obj\Debug\EncryiptedMailApp.Properties.Resources.resources
+C:\Users\Roali Biten\source\repos\EncryiptedMailApp\EncryiptedMailApp\obj\Debug\EncryiptedMailApp.csproj.GenerateResource.cache
+C:\Users\Roali Biten\source\repos\EncryiptedMailApp\EncryiptedMailApp\obj\Debug\EncryiptedMailApp.csproj.CoreCompileInputs.cache
+C:\Users\Roali Biten\source\repos\EncryiptedMailApp\EncryiptedMailApp\obj\Debug\EncryiptedMailApp.exe
+C:\Users\Roali Biten\source\repos\EncryiptedMailApp\EncryiptedMailApp\obj\Debug\EncryiptedMailApp.pdb
+C:\Users\Roali Biten\source\repos\EncryiptedMailApp\EncryiptedMailApp\obj\Debug\EncryiptedMailApp.Form1.resources
